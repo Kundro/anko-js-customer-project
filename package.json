@@ -1,0 +1,25 @@
+{
+  "name": "anko-js-customer-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint *.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kundro/anko-js-customer-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kundro/anko-js-customer-project/issues"
+  },
+  "homepage": "https://github.com/Kundro/anko-js-customer-project#readme",
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "prettier": "^2.7.1"
+  }
+}
